@@ -1,0 +1,11 @@
+{
+  "name": "vrun",
+  "version": "1.0.3",
+  "description": "Run npm packages in parallel",
+  "main": "index.js",
+  "bin": "index.js",
+  "type": "module",
+  "keywords": ["npm-run-all", "wireit", "vrun"],
+  "author": "Ninh Pham (ReeganExE)",
+  "license": "MIT"
+}
